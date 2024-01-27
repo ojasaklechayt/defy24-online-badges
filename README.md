@@ -1,6 +1,6 @@
 # Defy Hackathon 2024
 
-Welcome to the Defy Hackathon 2024 repository! 🚀
+Welcome to the Defy Hackathon 2024 repository of online badges! 🚀
 
 ## Achievements
 
